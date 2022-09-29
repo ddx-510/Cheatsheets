@@ -6,4 +6,4 @@ ___
 
 Current collection:
 
-- [PC1421](https://github.com/ddx-510/Cheatsheets/blob/main/PC1421.md)
+- [PC1421 AY2022/23 sem 1](https://github.com/ddx-510/Cheatsheets/blob/main/PC1421.md)
